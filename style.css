@@ -1,0 +1,25 @@
+.img1 img {
+    width: 140mm;
+    height: 60mm;
+}
+
+.table {
+    border-style: ridge;
+    background-color: rgb(251, 238, 245);
+}
+.cks {
+    background-color: rgb(246, 192, 231);
+}
+.cks2 {
+    background-color: rgb(249, 166, 217);
+}
+.cks3 {
+    background-color: rgb(245, 123, 213);
+}
+.body1 {
+    background-color:rgb(255, 105, 188);
+}
+.img2{
+    width: 60mm;
+    height: 60mm;
+}
